@@ -7,5 +7,6 @@ En este curso aprendi todo lo relacionado a:
 - Buenas practicas y su porque
 - Nunca parar de aprender
 - Creado por el increible Platzomichi
+-Uncluye ejemplos en el compu
 
 tambien ha sido mi primer README te invito a seguirme en mi perfil de [**LinKedin**](http://https://www.linkedin.com/in/brian-rodriguez-acosta-8b023a203/ "LinKedin")
